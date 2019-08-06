@@ -1,0 +1,226 @@
+[
+    { 
+        "Dia":"Martes",
+        "Hora": "8:00-8:30",
+        "Actividad": "Registro de los participantes",
+        "Tipo de sesion":"Registro",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": "8:30-9:00",
+        "Actividad": "Bienvenida e Inauguración",
+        "Tipo de sesion":"Inauguración",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 9:00-9:45,
+        "Actividad": "La industria del Juego: los grandes desafios.",
+        "Tipo de sesion":"Conferencia Magistral",
+        "Moderador":"",
+        "Ponente":"Palabras a cargo de Bryan Sandoval Ex Gobernador de Nevada"
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 9:45-10:00,
+        "Actividad": "Preguntas y Respuestas",
+        "Tipo de sesion":"Preguntas y Respuestas",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 10:00-10:45,
+        "Actividad": "“Juego Online y regulación: los grandes desafíos",
+        "Tipo de sesion":"Conferencia Magistral.",
+        "Moderador":" Gustavo Ysmail",
+        "Ponente":" Michael Ellen, ex Director de Licencias y Estrategias de la Comisión de Control del Juego de Alderney, Reino Unido"
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 10:45-11:00,
+        "Actividad": "Preguntas y Respuestas",
+        "Tipo de sesion":"Preguntas y Respuestas",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 11:00-11:30,
+        "Actividad": "Receso",
+        "Tipo de sesion":"Receso",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 11:30-12:15,
+        "Actividad": "México: del Juego Online",
+        "Tipo de sesion":"Mesa Redonda",
+        "Moderador":"Cristina Romero",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 12:15-12:45,
+        "Actividad": "Preguntas y Respuestas",
+        "Tipo de sesion":"Preguntas y Respuestas",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 12:45-13:30,
+        "Actividad": "La Industria del Juego y su contribución al crecimiento económico del país",
+        "Tipo de sesion":"Ponencia",
+        "Moderador":"Carlos Carrión. Presidente AGEM",
+        "Ponente":"Michael Pollock, Spectrum Gaming Group, EEUU"
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 13:30-14:15,
+        "Actividad": "La Industria del juego ante los ciberdelitos",
+        "Tipo de sesion":"Ponencia",
+        "Moderador":"",
+        "Ponente":" Royi Biller, CEO de Cybiller, Israel"
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 14:15-14:45,
+        "Actividad": "Preguntas y Respuestas",
+        "Tipo de sesion":"Preguntas y Respuestas",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 14:45-16:15,
+        "Actividad": "Comida-Lunch",
+        "Tipo de sesion":"Receso",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 14:45-16:15,
+        "Actividad": "Comida-Lunch",
+        "Tipo de sesion":"",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 16:15-17:00,
+        "Actividad": "Gestión de Riesgos: Diseño de estrategias apropiadas para la protección de las salas de juego",
+        "Tipo de sesion":"Conferencia Magistral",
+        "Moderador":"",
+        "Ponente":" George Joseph, Presidente de Worldwide Casino"},
+    { 
+        "Dia":"Martes",
+        "Hora": 17:00-17:15,
+        "Actividad": "Preguntas y Respuestas",
+        "Tipo de sesion":"Preguntas y Respuestas",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 17:15-18:00,
+        "Actividad": "“Turismo y Juego: El binomio perfecto",
+        "Tipo de sesion":"Ponencia",
+        "Moderador":"Por definir",
+        "Ponente":"Michael Soll"
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 18:00-18:15,
+        "Actividad": "Preguntas y Respuestas",
+        "Tipo de sesion":"Preguntas y Respuestas",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 18:15-19:00,
+        "Actividad": "Fabricantes 1",
+        "Tipo de sesion":"Ponencia",
+        "Moderador":"Por definir",
+        "Ponente":"Por definir"
+    },
+    { 
+        "Dia":"Martes",
+        "Hora": 18:50,
+        "Actividad": "Clausura de los trabajos de la primera jornada",
+        "Tipo de sesion":"Clausura",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Miercoles",
+        "Hora": 9:30-10:20,
+        "Actividad": "Por una mejor regulación del Juego en México",
+        "Tipo de sesion":"Conferencia Magistral",
+        "Moderador":"Jaime de la Garza",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Miercoles",
+        "Hora": 10:20-10:30,
+        "Actividad": "Preguntas y Respuestas",
+        "Tipo de sesion":"Preguntas y Respuestas",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Miercoles",
+        "Hora":10:30-11:45,
+        "Actividad": "“Un análisis de la Nueva Ley de Juegos y Sorteos",
+        "Tipo de sesion":"Mesa Redonda",
+        "Moderador":"Oscar Paredes.3",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Miercoles",
+        "Hora": 11:45-12:15,
+        "Actividad": "Preguntas y Respuestas",
+        "Tipo de sesion":"Preguntas y Respuestas",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Miercoles",
+        "Hora": 12:15-12:30,
+        "Actividad": "Receso",
+        "Tipo de sesion":"Receso",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Miercoles",
+        "Hora": 12:30-13:15,
+        "Actividad": "Fabricantes 2",
+        "Tipo de sesion":"Ponencia",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Miercoles",
+        "Hora": 13:15-13:30,
+        "Actividad": "Preguntas y Respuestas",
+        "Tipo de sesion":"Preguntas y Respuestas",
+        "Moderador":"",
+        "Ponente":""
+    },
+    { 
+        "Dia":"Miercoles",
+        "Hora": 13:30-14:00,
+        "Actividad": "Conclusiones y Clausura de la Convención",
+        "Tipo de sesion":"Clausura",
+        "Moderador":"",
+        "Ponente":""
+    }
+    
+]
