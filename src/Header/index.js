@@ -6,9 +6,15 @@ class Header extends Component {
     render() {
         return (
             <header>
-                <figure>
-                    <img src={Pleca} alt="convención del juego"/>
-                </figure>
+                <div className="container-fluid">
+                    <div className="row">
+                        <div className="col-12">
+                                <figure>
+                                    <img src={Pleca} alt="convención del juego" className="img-fluid"/>
+                                </figure>
+                        </div>
+                    </div>
+                </div>
             </header>
         );
     }

@@ -1,5 +1,6 @@
 import React from 'react';
 import axios from 'axios';
+import './index.css';
 class Seleccion extends React.Component {
    
     state = {
@@ -51,14 +52,21 @@ class Seleccion extends React.Component {
       console.log(this.state)
       return (
         <div>
-        <form onSubmit={this.handleSubmit}>
+          <div class="container" id="seleccion">
+        <form onSubmit={this.handleSubmit} className="box-black">
+          <div>
+        <div class="row">
+          <div class="col-xs-12 col-md-3 ">
           <label>
             Día:
-            <select name="dia" value={this.state.dia} onChange={this.handleChange}>
+            <select name="dia" value={this.state.dia} onChange={this.handleChange} class="box-black">
               <option selected value="Martes">Martes</option>
               <option value="Miercoles">Miércoles</option>
             </select>
+            <button><i class="fa fa-search">b</i></button>
           </label>
+          </div>
+          <div class="col-xs-12 col-md-3">
           <label>
             Hora:
             <select name="hora" value={this.state.hora} onChange={this.handleChange}>
@@ -76,6 +84,8 @@ class Seleccion extends React.Component {
               <option value="seis">18:00 - 19:00 </option>
             </select>
           </label>
+          </div>
+          <div class="col-xs-12 col-md-3">
           <label>
             Actividad:
             <select name="actividad" value={this.state.actividad} onChange={this.handleChange}>
@@ -101,6 +111,13 @@ class Seleccion extends React.Component {
               
             </select>
           </label>
+          </div>
+          <div class="col-xs-12 col-md-3">
+            <button>LISTA</button>
+          </div>
+          </div>
+          <div class="row">
+          <div class="col-xs-12 col-md-3">
           <label>
             Tipo de Sesión:
             <select name="sesion" value={this.state.sesion} onChange={this.handleChange}>
@@ -115,6 +132,8 @@ class Seleccion extends React.Component {
               <option value="clausura">Clausura</option>
             </select>
           </label>
+          </div>
+          <div class="col-xs-12 col-md-3">
           <label>
             Moderador:
             <select name="sesion" value={this.state.sesion} onChange={this.handleChange}>
@@ -126,6 +145,8 @@ class Seleccion extends React.Component {
               <option value="oscar"> Oscar Paredes</option>
             </select>
           </label>
+          </div>
+          <div class="col-xs-12 col-md-3">
           <label>
             Ponente:
             <select name="sesion" value={this.state.sesion} onChange={this.handleChange}>
@@ -137,9 +158,15 @@ class Seleccion extends React.Component {
               <option value="soll"> Michael Soll</option>
             </select>
           </label>
+          </div>
+          <div class="col-xs-12 col-md-3">
+            <button>ESQUEMA</button>
+          </div>
+        </div>
           <input type="submit" value="Submit" />
+          </div>
         </form>
-
+        </div>
         <section>
           Las fechas de eventos son:
 
